@@ -13,4 +13,5 @@ use yii\widgets\LinkPager;
 </ul>
 
 <?= LinkPager::widget(['pagination' => $pagination]) ?>
-// Html хелпер
+// Html хелпер 
+// autosave dont working!  Зарабортал, ура!
